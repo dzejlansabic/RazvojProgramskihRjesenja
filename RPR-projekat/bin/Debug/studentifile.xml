@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student xsi:type="StudentBachelor">
+    <brojIndeksa>11001</brojIndeksa>
+    <Ime>Džejlan</Ime>
+    <Prezime>Šabić</Prezime>
+    <MaticniBroj>1309996111088</MaticniBroj>
+    <DatumRodjenja>1996-09-13T00:00:00</DatumRodjenja>
+    <DatumUpisa>2017-01-18T00:00:00+01:00</DatumUpisa>
+    <DatumPrethodnogObrazovanja>2015-07-11T00:00:00</DatumPrethodnogObrazovanja>
+    <BrojIndeksa>11001</BrojIndeksa>
+    <Username>dsabic1</Username>
+    <Password>7A8DAD12FABF6CCEE2B6857E6CD14C4C</Password>
+    <Predmeti>
+      <Predmet>
+        <StudijPredmeta>RI2</StudijPredmeta>
+        <BrojPredavanja>20</BrojPredavanja>
+        <BrojVjezbi>10</BrojVjezbi>
+        <MaxStudenata>80</MaxStudenata>
+        <EctsBodovi>5</EctsBodovi>
+        <NastavniAnsamblPredmeta>Haris Supic, Alen Islamovic</NastavniAnsamblPredmeta>
+        <OpisPredmeta>Prog. u c++</OpisPredmeta>
+        <SifraPredmeta>124</SifraPredmeta>
+        <NazivPredmeta>Algoritmi i struktura podataka</NazivPredmeta>
+      </Predmet>
+      <Predmet>
+        <StudijPredmeta>RI1</StudijPredmeta>
+        <BrojPredavanja>25</BrojPredavanja>
+        <BrojVjezbi>14</BrojVjezbi>
+        <MaxStudenata>300</MaxStudenata>
+        <EctsBodovi>7</EctsBodovi>
+        <NastavniAnsamblPredmeta>Huse Fatkic</NastavniAnsamblPredmeta>
+        <OpisPredmeta>Tesko brate</OpisPredmeta>
+        <SifraPredmeta>125</SifraPredmeta>
+        <NazivPredmeta>Inzenjerska matematika 1</NazivPredmeta>
+      </Predmet>
+    </Predmeti>
+  </Student>
+  <Student xsi:type="StudentBachelor">
+    <brojIndeksa>11002</brojIndeksa>
+    <Ime>Džejlan</Ime>
+    <Prezime>Bean</Prezime>
+    <MaticniBroj>1309996111088</MaticniBroj>
+    <DatumRodjenja>1996-09-13T00:00:00</DatumRodjenja>
+    <DatumUpisa>2017-01-18T00:00:00+01:00</DatumUpisa>
+    <DatumPrethodnogObrazovanja>2015-07-11T00:00:00</DatumPrethodnogObrazovanja>
+    <BrojIndeksa>11002</BrojIndeksa>
+    <Username>dsabic2</Username>
+    <Password>73AC61A92C5F4203144255E15AD708F9</Password>
+    <Predmeti />
+  </Student>
+  <Student xsi:type="StudentMaster">
+    <brojIndeksa>11003</brojIndeksa>
+    <Ime>Šaban</Ime>
+    <Prezime>Šaulić</Prezime>
+    <MaticniBroj>2408961111044</MaticniBroj>
+    <DatumRodjenja>1961-08-24T00:00:00</DatumRodjenja>
+    <DatumUpisa>2017-01-18T00:00:00+01:00</DatumUpisa>
+    <DatumPrethodnogObrazovanja>2015-07-11T00:00:00</DatumPrethodnogObrazovanja>
+    <BrojIndeksa>11003</BrojIndeksa>
+    <Username>šapke</Username>
+    <Password>B5E5C15AE49BB4EBCF6358D078B06327</Password>
+    <DatumPrethodnogStudija>2016-07-27T00:00:00</DatumPrethodnogStudija>
+    <MjestoPrethodnogStudija>Sarajevo</MjestoPrethodnogStudija>
+    <BrojMasterIndeksa>112</BrojMasterIndeksa>
+    <Predmeti />
+  </Student>
+  <Student xsi:type="StudentMaster">
+    <brojIndeksa>11005</brojIndeksa>
+    <Ime>Steven</Ime>
+    <Prezime>Segal</Prezime>
+    <MaticniBroj>1309996111088</MaticniBroj>
+    <DatumRodjenja>1996-09-13T00:00:00</DatumRodjenja>
+    <DatumUpisa>2017-01-18T00:00:00+01:00</DatumUpisa>
+    <DatumPrethodnogObrazovanja>2015-07-11T00:00:00</DatumPrethodnogObrazovanja>
+    <BrojIndeksa>11005</BrojIndeksa>
+    <Username>Stevo</Username>
+    <Password>D93ABA2A34951E6D0EAA503A509CAB29</Password>
+    <DatumPrethodnogStudija>2016-07-27T00:00:00</DatumPrethodnogStudija>
+    <MjestoPrethodnogStudija>Tuzla</MjestoPrethodnogStudija>
+    <BrojMasterIndeksa>114</BrojMasterIndeksa>
+    <Predmeti />
+  </Student>
+  <Student xsi:type="StudentMaster">
+    <brojIndeksa>11004</brojIndeksa>
+    <Ime>Šaban</Ime>
+    <Prezime>Žilić</Prezime>
+    <MaticniBroj>2408961111044</MaticniBroj>
+    <DatumRodjenja>1961-08-24T00:00:00</DatumRodjenja>
+    <DatumUpisa>2017-01-18T00:00:00+01:00</DatumUpisa>
+    <DatumPrethodnogObrazovanja>2015-07-11T00:00:00</DatumPrethodnogObrazovanja>
+    <BrojIndeksa>11004</BrojIndeksa>
+    <Username>šap</Username>
+    <Password>BB3E4841061ABCD644432A64B0A03D9F</Password>
+    <DatumPrethodnogStudija>2016-07-27T00:00:00</DatumPrethodnogStudija>
+    <MjestoPrethodnogStudija>Sarajevo</MjestoPrethodnogStudija>
+    <BrojMasterIndeksa>113</BrojMasterIndeksa>
+    <Predmeti />
+  </Student>
+</ArrayOfStudent>
